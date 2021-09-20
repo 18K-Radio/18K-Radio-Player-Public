@@ -4,7 +4,7 @@
 <p align="center">
  <a href="#" align="center"><img width="200px"src="https://github.com/watchakorn-18k/18K-Radio-Player/blob/master/LOGO18K.png"/></a> 
   <br>
-<a href="#" align="center"><img src="https://img.shields.io/github/languages/code-size/watchakorn-18k/18K-Radio-Player"/></a>
+<a href="#" align="center"><img src="https://img.shields.io/github/languages/code-size/18K-Radio/18K-Radio-Player-Public"/></a>
 </p>
 
 ## 🎈 18K-Radio-Player
