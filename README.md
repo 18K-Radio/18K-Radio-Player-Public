@@ -31,11 +31,13 @@ pip install -r requirment.txt
 <a href="#" align="center"><img  height="500" src="https://github.com/watchakorn-18k/18K-Radio-Player/blob/master/Assets/exsam_2.png"/></a>
 </p>
 
+⬇️ Downloads
+- Windows 10, 11 : https://github.com/18K-Radio/18K-Radio-Player-Public/releases/download/18K-Radio-Player_v.2-alpha/18k-Radio-Player.v.2.rar
+
 ```yaml
 โปรแกรมฟังวิทยุ 18K บน Desktop v.2
 ------------------------
-⬇️ Downloads
-Windows 10, 11 : https://github.com/18K-Radio/18K-Radio-Player-Public/releases/download/18K-Radio-Player_v.2-alpha/18k-Radio-Player.v.2.rar
+
 🧲 วิธีใช้งาน
 - ดาวน์โหลดโปรแกรมที่หัวข้อ ⬇️ Downloads
 - แตกไฟล์ออกจากไฟล์ winrar (หากใครไม่มีโหลดมาติดตั้งได้ที่ https://www.winrar.in.th/ )
