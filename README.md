@@ -31,15 +31,18 @@ pip install -r requirment.txt
 <a href="#" align="center"><img  height="500" src="https://github.com/watchakorn-18k/18K-Radio-Player/blob/master/Assets/exsam_2.png"/></a>
 </p>
 
+```yaml
 โปรแกรมฟังวิทยุ 18K บน Desktop v.2
 ------------------------
 ⬇️ Downloads
 Windows 10, 11 : https://github.com/18K-Radio/18K-Radio-Player-Public/releases/download/18K-Radio-Player_v.2-alpha/18k-Radio-Player.v.2.rar
 🧲 วิธีใช้งาน
-- ดาวน์โหลดโปรแกรมที่ https://github.com/watchakorn-18k/18K-Radio-Player/releases/download/18K-Radio-Player_windows/18k-Radio-Player.v.1.rar
-- แตกไฟล์ออกจากไฟล์ winrar
+- ดาวน์โหลดโปรแกรมที่หัวข้อ ⬇️ Downloads
+- แตกไฟล์ออกจากไฟล์ winrar (หากใครไม่มีโหลดมาติดตั้งได้ที่ https://www.winrar.in.th/ )
 - จากนั้นเปิดเข้าไปที่โฟลเดอร์ 18k-Radio-Player
 - เปิดโปรแกมที่ชื่อว่า 18k-Radio-Player.exe
 - ("หากต้องการให้โปรแกรมอยู่หน้า Desktop ให้คลิกขวาที่โปรแกรมแล้วเลือก Sent to เลือก Desktop (create shortcut)")
 ** หากเปิดแล้ว Error ให้โหลดโปรแกรม https://www.videolan.org/index.th.html มาติดตั้งไว้ด้วยน้า
 ------------------------
+Source :  https://github.com/18K-Radio/18K-Radio-Player-Public
+```
